@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/buttercup_flower",
+  "textures": {
+    "0" : "minecraft:block/flower/stem",
+    "2" : "minecraft:block/flower/white"
+  }
+}
