@@ -1,1 +1,4 @@
-ALL CONTENT IN THIS RESOURCE PACK NOT MADE MY MOJANG OR ANY AFFILIATES IS PROPERTY OF DAN HATHAWAY (THE CREATOR OF FRACTAL BLOCK WORLD) AND IS SUBJECT TO HIS TERMS AND CONDITIONS
+Have you ever wanted to play Fractal Block World in Minecraft?
+Okay, well you can't do that with this, but you can get close!
+
+This is absolutely a temporary description.
