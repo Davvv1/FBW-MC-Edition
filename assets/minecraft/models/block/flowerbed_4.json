@@ -1,0 +1,36 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "#flowerbed"
+	},
+	"elements": [
+		{
+			"from": [16.15, 0, -7.95],
+			"to": [16.15, 11.99, 2.05],
+			"rotation": {"angle": -45, "axis": "y", "origin": [7, 0, -3]},
+			"faces": {
+				"north": {"uv": [9, 8, 16, 16], "texture": "#flowerbed", "tintindex": 1},
+				"east": {"uv": [16, 8, 9, 16], "texture": "#flowerbed", "tintindex": 1},
+				"south": {"uv": [9, 8, 16, 16], "texture": "#flowerbed", "tintindex": 1},
+				"west": {"uv": [9, 8, 16, 16], "texture": "#flowerbed", "tintindex": 1},
+				"up": {"uv": [9, 8, 16, 16], "texture": "#flowerbed", "tintindex": 1},
+				"down": {"uv": [9, 8, 16, 16], "texture": "#flowerbed", "tintindex": 1}
+			}
+		},
+		{
+			"from": [11.15, 0, -2.95],
+			"to": [21.15, 11.99, -2.95],
+			"rotation": {"angle": -45, "axis": "y", "origin": [7, 0, -3]},
+			"faces": {
+				"north": {"uv": [16, 8, 9, 16], "texture": "#flowerbed", "tintindex": 1},
+				"east": {"uv": [9, 8, 16, 16], "texture": "#flowerbed", "tintindex": 1},
+				"south": {"uv": [9, 8, 16, 16], "texture": "#flowerbed", "tintindex": 1},
+				"west": {"uv": [9, 8, 16, 16], "texture": "#flowerbed", "tintindex": 1},
+				"up": {"uv": [9, 8, 16, 16], "texture": "#flowerbed", "tintindex": 1},
+				"down": {"uv": [9, 8, 16, 16], "texture": "#flowerbed", "tintindex": 1}
+			}
+		}
+	]
+}

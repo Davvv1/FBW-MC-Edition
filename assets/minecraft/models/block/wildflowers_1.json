@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/flowerbed_1",
+  "textures": {
+    "flowerbed": "minecraft:block/ying_forest"
+  }
+}
