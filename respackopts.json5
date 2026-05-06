@@ -2,6 +2,7 @@
     id: "fbwMcEdition",
     version: 14,
     capabilities: ["FileFilter", "DirFilter"],
+    conf: {
 	customFont: true
     }
 }
