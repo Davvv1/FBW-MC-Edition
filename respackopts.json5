@@ -2,6 +2,12 @@
     id: "fbwMcEdition",
     version: 14,
     capabilities: ["FileFilter", "DirFilter"],
+    conf: {
+        flowerModelType: {
+		type: "enum",
+		default: "Xar",
+		values: ["Xar", "Unique", "Flat"]
+	},
 	customFont: true
     }
 }
