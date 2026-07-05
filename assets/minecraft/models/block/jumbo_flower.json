@@ -4,7 +4,7 @@
 	"textures": {
 		"0": "missing",
 		"2": "missing",
-		"particle": "missing"
+		"particle": "#2"
 	},
 	"elements": [
 		{
