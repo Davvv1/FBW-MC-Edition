@@ -1,0 +1,4 @@
+{
+	condition: "musicType.Music",
+	fallback: "assets/minecraft/sounds_whitenoise.json"
+}

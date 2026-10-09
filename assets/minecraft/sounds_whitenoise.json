@@ -173,45 +173,11 @@
             }
         ]
     },
-    "music.overworld": {
-        "replace": true,
-        "sounds": [
-            {
-                "name": "music/music/karlskreation",
-                "stream": true
-            },
-            {
-                "name": "music/music/tweedledum",
-                "stream": true
-            },
-            {
-                "name": "music/music/existences_finality",
-                "stream": true
-            }
-        ]
-    },
-    "music.nether": {
-        "replace": true,
-        "sounds": [
-            {
-                "name": "music/music/immesurable_infinity",
-                "stream": true
-            },
-            {
-                "name": "music/music/experimental_flora",
-                "stream": true
-            },
-            {
-                "name": "music/music/existences_finality",
-                "stream": true
-            }
-        ]
-    },
     "music.credits": {
         "replace": true,
         "sounds": [
             {
-                "name": "music/music/stretched_structure",
+                "name": "music/white_noise/main",
                 "stream": true
             }
         ]
@@ -220,8 +186,7 @@
         "replace": true,
         "sounds": [
             {
-                "name": "music.nether",
-                "type": "event",
+                "name": "music/white_noise/nether",
                 "stream": true
             }
         ]
@@ -230,8 +195,7 @@
         "replace": true,
         "sounds": [
             {
-                "name": "music.overworld",
-                "type": "event",
+                "name": "music/white_noise/main",
                 "stream": true
             }
         ]
@@ -240,8 +204,7 @@
         "replace": true,
         "sounds": [
             {
-                "name": "music.nether",
-                "type": "event",
+                "name": "music/white_noise/nether",
                 "stream": true
             }
         ]
@@ -250,8 +213,7 @@
         "replace": true,
         "sounds": [
             {
-                "name": "music.overworld",
-                "type": "event",
+                "name": "music/white_noise/main",
                 "stream": true
             }
         ]
@@ -260,8 +222,7 @@
         "replace": true,
         "sounds": [
             {
-                "name": "music.nether",
-                "type": "event",
+                "name": "music/white_noise/nether",
                 "stream": true
             }
         ]
@@ -270,8 +231,7 @@
         "replace": true,
         "sounds": [
             {
-                "name": "music.nether",
-                "type": "event",
+                "name": "music/white_noise/nether",
                 "stream": true
             }
         ]
@@ -280,8 +240,7 @@
         "replace": true,
         "sounds": [
             {
-                "name": "music.nether",
-                "type": "event",
+                "name": "music/white_noise/nether",
                 "stream": true
             }
         ]
@@ -290,8 +249,7 @@
         "replace": true,
         "sounds": [
             {
-                "name": "music.nether",
-                "type": "event",
+                "name": "music/white_noise/nether",
                 "stream": true
             }
         ]
@@ -300,8 +258,7 @@
         "replace": true,
         "sounds": [
             {
-                "name": "music.overworld",
-                "type": "event",
+                "name": "music/white_noise/main",
                 "stream": true
             }
         ]
@@ -310,8 +267,7 @@
         "replace": true,
         "sounds": [
             {
-                "name": "music.overworld",
-                "type": "event",
+                "name": "music/white_noise/main",
                 "stream": true
             }
         ]
@@ -320,22 +276,21 @@
         "replace": true,
         "sounds": [
             {
-                "name": "music.overworld",
-                "type": "event",
+                "name": "music/white_noise/main",
                 "stream": true
             }
         ]
     },
     "music.overworld.deep_dark": {
         "replace": true,
-        "sounds": []
+        "sounds": [
+        ]
     },
     "music.overworld.desert": {
         "replace": true,
         "sounds": [
             {
-                "name": "music.overworld",
-                "type": "event",
+                "name": "music/white_noise/main",
                 "stream": true
             }
         ]
@@ -344,8 +299,7 @@
         "replace": true,
         "sounds": [
             {
-                "name": "music.overworld",
-                "type": "event",
+                "name": "music/white_noise/main",
                 "stream": true
             }
         ]
@@ -354,8 +308,7 @@
         "replace": true,
         "sounds": [
             {
-                "name": "music.overworld",
-                "type": "event",
+                "name": "music/white_noise/main",
                 "stream": true
             }
         ]
@@ -364,8 +317,7 @@
         "replace": true,
         "sounds": [
             {
-                "name": "music.overworld",
-                "type": "event",
+                "name": "music/white_noise/main",
                 "stream": true
             }
         ]
@@ -374,8 +326,7 @@
         "replace": true,
         "sounds": [
             {
-                "name": "music.overworld",
-                "type": "event",
+                "name": "music/white_noise/main",
                 "stream": true
             }
         ]
@@ -384,8 +335,7 @@
         "replace": true,
         "sounds": [
             {
-                "name": "music.overworld",
-                "type": "event",
+                "name": "music/white_noise/main",
                 "stream": true
             }
         ]
@@ -394,8 +344,7 @@
         "replace": true,
         "sounds": [
             {
-                "name": "music.overworld",
-                "type": "event",
+                "name": "music/white_noise/main",
                 "stream": true
             }
         ]
@@ -404,8 +353,7 @@
         "replace": true,
         "sounds": [
             {
-                "name": "music.overworld",
-                "type": "event",
+                "name": "music/white_noise/main",
                 "stream": true
             }
         ]
@@ -414,8 +362,7 @@
         "replace": true,
         "sounds": [
             {
-                "name": "music.overworld",
-                "type": "event",
+                "name": "music/white_noise/main",
                 "stream": true
             }
         ]
@@ -424,8 +371,7 @@
         "replace": true,
         "sounds": [
             {
-                "name": "music.overworld",
-                "type": "event",
+                "name": "music/white_noise/main",
                 "stream": true
             }
         ]
@@ -434,8 +380,7 @@
         "replace": true,
         "sounds": [
             {
-                "name": "music.overworld",
-                "type": "event",
+                "name": "music/white_noise/main",
                 "stream": true
             }
         ]
@@ -444,8 +389,7 @@
         "replace": true,
         "sounds": [
             {
-                "name": "music.overworld",
-                "type": "event",
+                "name": "music/white_noise/main",
                 "stream": true
             }
         ]
@@ -454,8 +398,7 @@
         "replace": true,
         "sounds": [
             {
-                "name": "music.overworld",
-                "type": "event",
+                "name": "music/white_noise/main",
                 "stream": true
             }
         ]
@@ -464,8 +407,7 @@
         "replace": true,
         "sounds": [
             {
-                "name": "music.overworld",
-                "type": "event",
+                "name": "music/white_noise/main",
                 "stream": true
             }
         ]
@@ -474,8 +416,7 @@
         "replace": true,
         "sounds": [
             {
-                "name": "music.overworld",
-                "type": "event",
+                "name": "music/white_noise/main",
                 "stream": true
             }
         ]
@@ -484,8 +425,7 @@
         "replace": true,
         "sounds": [
             {
-                "name": "music.overworld",
-                "type": "event",
+                "name": "music/white_noise/main",
                 "stream": true
             }
         ]
