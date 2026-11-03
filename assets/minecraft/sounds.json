@@ -1,5 +1,6 @@
 {
     "music_disc.11": {
+		"replace": true,
         "sounds": [
             {
                 "name": "records/danlam4/layer11",
@@ -17,6 +18,7 @@
         ]
     },
     "music_disc.5": {
+		"replace": true,
         "sounds": [
             {
                 "name": "records/resolutionblue/t",
@@ -25,6 +27,7 @@
         ]
     },
     "music_disc.blocks": {
+		"replace": true,
         "sounds": [
             {
                 "name": "records/danlam4/forgotten",
@@ -42,6 +45,7 @@
         ]
     },
     "music_disc.chirp": {
+		"replace": true,
         "sounds": [
             {
                 "name": "records/danlam4/tranquility",
@@ -50,6 +54,7 @@
         ]
     },
     "music_disc.creator": {
+		"replace": true,
         "sounds": [
             {
                 "name": "records/resolutionblue/briefing",
@@ -58,6 +63,7 @@
         ]
     },
     "music_disc.creator_music_box": {
+		"replace": true,
         "sounds": [
             {
                 "name": "records/resolutionblue/prebriefing",
@@ -93,6 +99,7 @@
         ]
     },
     "music_disc.mellohi": {
+		"replace": true,
         "sounds": [
             {
                 "name": "records/danlam4/aimless",
@@ -101,6 +108,7 @@
         ]
     },
     "music_disc.otherside": {
+		"replace": true,
         "sounds": [
             {
                 "name": "records/resolutionblue/juice",
@@ -109,6 +117,7 @@
         ]
     },
     "music_disc.pigstep": {
+		"replace": true,
         "sounds": [
             {
                 "name": "records/resolutionblue/midway_there",
@@ -117,6 +126,7 @@
         ]
     },
     "music_disc.precipice": {
+		"replace": true,
         "sounds": [
             {
                 "name": "records/resolutionblue/galactic_irregularity",
@@ -125,6 +135,7 @@
         ]
     },
     "music_disc.relic": {
+		"replace": true,
         "sounds": [
             {
                 "name": "records/resolutionblue/oranges",
@@ -133,14 +144,16 @@
         ]
     },
     "music_disc.stal": {
+		"replace": true,
         "sounds": [
             {
-                "name": "records/danlam4/true_exploration",
+                "name": "records/danlam4/away_from_it_all",
                 "stream": true
             }
         ]
     },
     "music_disc.strad": {
+		"replace": true,
         "sounds": [
             {
                 "name": "records/danlam4/lattices_and_vines",
@@ -149,6 +162,7 @@
         ]
     },
     "music_disc.tears": {
+		"replace": true,
         "sounds": [
             {
                 "name": "records/danlam4/hell",
@@ -157,6 +171,7 @@
         ]
     },
     "music_disc.wait": {
+		"replace": true,
         "sounds": [
             {
                 "name": "records/danlam4/new_beginnings",
@@ -178,14 +193,31 @@
         "sounds": [
             {
                 "name": "music/music/karlskreation",
-                "stream": true
+                "stream": true,
+				"weight": 100
             },
             {
                 "name": "music/music/tweedledum",
-                "stream": true
+                "stream": true,
+				"weight": 100
             },
             {
-                "name": "music/music/existences_finality",
+                "name": "music/music/isthatarythmiusreference",
+                "stream": true,
+				"weight": 100
+            },
+            {
+                "name": "music/music/thevastvoid",
+                "stream": true,
+				"weight": 100
+            },
+            {
+                "name": "music/music/weneedtogetsmaller",
+                "stream": true,
+				"weight": 10
+            },
+            {
+                "name": "music/music/_",
                 "stream": true
             }
         ]
@@ -194,15 +226,71 @@
         "replace": true,
         "sounds": [
             {
-                "name": "music/music/immesurable_infinity",
-                "stream": true
+                "name": "music/music/labyrinth",
+                "stream": true,
+				"weight": 100
             },
             {
                 "name": "music/music/experimental_flora",
+                "stream": true,
+				"weight": 100
+            },
+            {
+                "name": "music/music/sporecore",
+                "stream": true,
+				"weight": 100
+            },
+            {
+                "name": "music/music/stretched_structure",
+                "stream": true,
+				"weight": 100
+            },
+            {
+                "name": "music/music/an_even_more_hidden_world",
+                "stream": true,
+				"weight": 100
+            },
+            {
+                "name": "music/music/y_qyub",
+                "stream": true,
+				"weight": 10
+            },
+            {
+                "name": "music/music/_",
                 "stream": true
+            }
+        ]
+    },
+    "music.end": {
+        "replace": true,
+        "sounds": [
+            {
+                "name": "music/music/sanctuarium",
+                "stream": true,
+				"weight": 100
+            },
+            {
+                "name": "music/music/immesurable_infinity",
+                "stream": true,
+				"weight": 100
             },
             {
                 "name": "music/music/existences_finality",
+                "stream": true,
+				"weight": 100
+            },
+            {
+                "name": "music/music/church_of_cobblestone",
+                "stream": true,
+				"weight": 100
+            },
+            {
+                "name": "music/music/yellowedsecrets",
+                "stream": true,
+				"weight": 10
+            },
+            {
+                "name": "music/music/_",
                 "stream": true
             }
         ]
@@ -211,7 +299,7 @@
         "replace": true,
         "sounds": [
             {
-                "name": "music/music/stretched_structure",
+                "name": "music/music/learningcurve",
                 "stream": true
             }
         ]
@@ -220,7 +308,7 @@
         "replace": true,
         "sounds": [
             {
-                "name": "music.nether",
+                "name": "music.end",
                 "type": "event",
                 "stream": true
             }
@@ -230,23 +318,22 @@
         "replace": true,
         "sounds": [
             {
+                "name": "music/music/fractaled",
+                "stream": true
+            }
+        ]
+    },
+    "music.creative": {
+        "replace": true,
+        "sounds": [
+            {
                 "name": "music.overworld",
                 "type": "event",
                 "stream": true
             }
         ]
     },
-    "music.end": {
-        "replace": true,
-        "sounds": [
-            {
-                "name": "music.nether",
-                "type": "event",
-                "stream": true
-            }
-        ]
-    },
-    "music.creative": {
+    "music.game": {
         "replace": true,
         "sounds": [
             {

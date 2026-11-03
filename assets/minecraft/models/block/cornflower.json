@@ -1,7 +1,6 @@
 {
-  "parent": "minecraft:block/small_flower",
+  "parent": "minecraft:block/wide_flower",
   "textures": {
-    "0" : "minecraft:block/flower/stem",
-    "2" : "minecraft:block/flower/blue"
+    "0" : "minecraft:block/cornflower"
   }
 }

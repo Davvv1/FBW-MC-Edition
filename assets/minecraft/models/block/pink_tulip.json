@@ -1,7 +1,6 @@
 {
   "parent": "minecraft:block/hard_flower",
   "textures": {
-    "0" : "minecraft:block/flower/stem",
-    "2" : "minecraft:block/flower/pink"
+    "0" : "minecraft:block/pink_tulip"
   }
 }

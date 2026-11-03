@@ -1,5 +1,59 @@
 [
     {
+        "section": "FBW-MC Edition",
+        "disciplines": [
+            {
+                "discipline": "THANKS TO:",
+                "titles": [
+                    {
+                        "title": "Original Creator of Fractal Block World",
+                        "names": [
+                            "Dan Hathaway"
+                        ]
+                    },
+                    {
+                        "title": "Music",
+                        "names": [
+                            "ResolutionBlue",
+							"danlam4",
+							"Rythmius",
+							"wk"
+                        ]
+                    },
+                    {
+                        "title": "Helpful Contributors",
+                        "names": [
+                            "Chubbachoo"
+                        ]
+                    },
+                    {
+                        "title": "Software Used",
+                        "names": [
+                            "GIMP",
+							"Blockbench",
+							"Blender",
+							"Audacity"
+                        ]
+                    },
+                    {
+                        "title": "Special Thanks",
+                        "names": [
+                            "enzo",
+							"wk",
+							"celina"
+                        ]
+                    },
+                    {
+                        "title": "And Me, I Guess",
+                        "names": [
+                            "Hooye!!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "section": "YOU WIN",
         "disciplines": [
             {
@@ -97,9 +151,9 @@
                         ]
                     },
                     {
-                        "title": "Director of Bedrock Platform",
+                        "title": "Okay I'm done",
                         "names": [
-                            "Michael McManus"
+                            "All those cool names below are people who helped with actual minecraft, not FBW-MC"
                         ]
                     },
                     {

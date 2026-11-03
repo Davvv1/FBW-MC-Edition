@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/small_flower",
+  "textures": {
+    "1" : "minecraft:block/wither_rose"
+  }
+}

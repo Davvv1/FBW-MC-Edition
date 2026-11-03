@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wide_flower",
+  "textures": {
+    "0" : "minecraft:block/eyeblossom"
+  }
+}
