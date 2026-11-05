@@ -1,16 +1,13 @@
-Still a work in progress
+Minecraft, but if it looked like Fractal Block World
 
-Have you ever wanted to play Fractal Block World in Minecraft?
-Okay, well you can't do that with this, but you can get close!
+I intend for this to, once complete, have every item, block, and potentially entity, to have FBW-esque textures and models. At the point this project is at now, most blocks you typically see in-game are fully textured and modeled, and you can absolutely play through the game without seeing very many vanilla textures.
 
-This is absolutely a temporary description.
+This resource pack contains cool and awesome music! A few developers of FBW music mods let me use their music for this resource pack! I'll list them here:
 
-Music mods used in this resource pack:
+  - Rhythmius Music Mod: https://gamebanana.com/sounds/83492
 
-- Rhythmus Music Mod https://gamebanana.com/sounds/83492
-- danlam4's xar music pack https://gamebanana.com/mods/601867
-- Fractal Block Music by ResolutionBlue https://marcus-kingston.itch.io/fbwm
+  - danlam4's xar music pack: https://gamebanana.com/mods/601867
+    
+  - Fractal Block Music by ResolutionBlue: https://marcus-kingston.itch.io/fbwm
 
-Discord: https://discord.com/channels/1296531370319024170/1500577907352010844
-
-Modrinth: still working on it lol
+Modrinth: https://modrinth.com/resourcepack/fbw-mc (may still be under review)
